@@ -1,2 +1,2 @@
-# SQLite-Python
-Simples uso do SQLite com Python
+# SQLite3-Python
+Simples uso do SQLite3 com Python
